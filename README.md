@@ -7,8 +7,8 @@
 ###
 Aleksejs Birula.
 
-Базу создавал в Visual Studio 2017.
-BD was created in Visual Studio 2017.
+БД создавал в Visual Studio 2017.
+DB was created in Visual Studio 2017.
 
 DB VERSION - (localdb)\MSSQLLocalDB
 

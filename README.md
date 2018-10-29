@@ -4,10 +4,11 @@
 
 ## Instruction for setUP Data Base.
 
-Aleksejs Birula
+###
+Aleksejs Birula.
 
-Базу создавал в Visual Studio 2017
-BD was created in Visual Studio 2017
+Базу создавал в Visual Studio 2017.
+BD was created in Visual Studio 2017.
 
 DB VERSION - (localdb)\MSSQLLocalDB
 
@@ -31,3 +32,4 @@ CREATE TABLE [dbo].[employee] (
 [deplist]  NVARCHAR (MAX) NULL,
 PRIMARY KEY CLUSTERED ([Id] ASC)
 );
+###

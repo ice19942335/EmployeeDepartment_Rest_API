@@ -1,4 +1,4 @@
-# REST_FULL API witch Adding, deleting, updating data in DB.
+# Employee department (Server) API
 
 ## Instruction for DB setup.
 

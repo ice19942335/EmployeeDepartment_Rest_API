@@ -1,6 +1,6 @@
 # REST_FULL API witch Adding, deleting, updating data in DB.
 
-## Instruction for setUP Data Base.
+## Instruction for DB setup.
 
 DB was created in Visual Studio 2017.<br>
 DB VERSION - (localdb)\MSSQLLocalDB
